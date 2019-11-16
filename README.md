@@ -16,10 +16,7 @@ Set workflow into vim plugin.
 
 ```yml
 name: "vim help tag name check"
-on:
-  push:
-    branches:
-      - master
+on: push
 jobs:
   tagname:
     name: Check tag name conflict
