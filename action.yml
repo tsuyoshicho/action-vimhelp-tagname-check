@@ -1,4 +1,4 @@
-name: 'Run vim for vimhelp to html'
+name: 'Vim help tag conflict checker'
 description: 'Generate HTML vim doc help'
 author: 'Tsuyoshi CHO <Tsuyoshi.CHO+develop@Gmail.com>'
 inputs:
