@@ -1,4 +1,7 @@
-# GitHub Action: Check vim help tag name conflict.
+# GitHub Action: Check vim help tag name conflict
+
+[![Docker Image CI](https://github.com/tsuyoshicho/action-vimhelp-tagname-check/workflows/Docker%20Image%20CI/badge.svg)](https://github.com/tsuyoshicho/action-vimhelp-tagname-check/actions)
+[![Release](https://github.com/tsuyoshicho/action-vimhelp-tagname-check/workflows/release/badge.svg)](https://github.com/tsuyoshicho/action-vimhelp-tagname-check/releases)
 
 ## action-vimhelp-tagname-check
 
@@ -29,6 +32,7 @@ jobs:
 ```
 
 ## License
+
 [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)
 
 vim-jp: vimdoc-ja-working's [discussion](https://github.com/vim-jp/vimdoc-ja-working/issues/733).
