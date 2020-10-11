@@ -1,4 +1,4 @@
-FROM thinca/vim:v8.1.2248
+FROM thinca/vim:v8.1.2424
 
 COPY entrypoint.sh /entrypoint.sh
 
