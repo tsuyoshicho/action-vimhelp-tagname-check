@@ -4,6 +4,7 @@ on:
     branches:
       - master
   pull_request:
+
 jobs:
   test:
     name: helptag test
@@ -15,4 +16,3 @@ jobs:
           submodules: true
       - name: helptag-github-check
         uses: ./
-
