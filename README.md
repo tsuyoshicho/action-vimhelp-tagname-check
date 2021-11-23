@@ -15,7 +15,7 @@ none.
 
 Set workflow into vim plugin.
 
-### [.github/workflows/vimhelpdeploy.yml](.github/workflows/vimhelpdeploy.yml)
+### workflow file
 
 ```yml
 name: "vim help tag name check"
@@ -34,5 +34,3 @@ jobs:
 ## License
 
 [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/)
-
-vim-jp: vimdoc-ja-working's [discussion](https://github.com/vim-jp/vimdoc-ja-working/issues/733).
