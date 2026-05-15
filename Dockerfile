@@ -1,4 +1,4 @@
-FROM thinca/vim:latest@sha256:8cbb18fe22a22dea756a97af7859909afe263059222df57e9fbe974cce6de248
+FROM thinca/vim:latest@sha256:a7732b83a0c8f4b69eeb0e42dc5e46c13ea05e0ddc4ce57b3272b68397ae33c8
 
 COPY entrypoint.sh /entrypoint.sh
 
